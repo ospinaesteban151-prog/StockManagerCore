@@ -22,5 +22,4 @@ Documentacion
 ##Aclaraciones
 - Los clics del menú (Categorías, Productos, Stock Bajo, Valorización) aún no abren los formularios correspondientes
 - En el Label que tiene "$0.00" del Form Reportes, solo asígnenle valor a ese label
-- En la rama "Interfaces" esta el .gitignore (no se si sea relevante)
 - en la clase Utilidades.cs esta el Metodo para la Excepcion
