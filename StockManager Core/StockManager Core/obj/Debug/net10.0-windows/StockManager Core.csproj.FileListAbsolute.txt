@@ -1,0 +1,21 @@
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\bin\Debug\net10.0-windows\StockManager Core.exe
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\bin\Debug\net10.0-windows\StockManager Core.deps.json
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\bin\Debug\net10.0-windows\StockManager Core.runtimeconfig.json
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\bin\Debug\net10.0-windows\StockManager Core.dll
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\bin\Debug\net10.0-windows\StockManager Core.pdb
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\StockManager_Core.frmCategorias.resources
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\StockManager_Core.frmPrincipal.resources
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\StockManager_Core.frmProductos.resources
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\StockManager_Core.frmReportes.resources
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\StockManager Core.csproj.GenerateResource.cache
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\StockManager Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\StockManager Core.AssemblyInfoInputs.cache
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\StockManager Core.AssemblyInfo.cs
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\StockManager Core.csproj.CoreCompileInputs.cache
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\StockManager Core.sourcelink.json
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\StockManager Core.dll
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\refint\StockManager Core.dll
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\StockManager Core.pdb
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\StockManager Core.genruntimeconfig.cache
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\ref\StockManager Core.dll
+C:\Users\jmond\Desktop\proyecto sena\StockManagerCore\StockManager Core\StockManager Core\obj\Debug\net10.0-windows\StockMan.49717599.Up2Date

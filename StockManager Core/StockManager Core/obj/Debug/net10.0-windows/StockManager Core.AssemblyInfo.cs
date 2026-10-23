@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StockManager Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64fc49fc660ca7b61eac0a4dfb8499c566460c05")]
 [assembly: System.Reflection.AssemblyProductAttribute("StockManager Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StockManager Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
