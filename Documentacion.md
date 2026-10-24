@@ -30,8 +30,6 @@ Documentacion
 
 ## Integrante 1 (Marlon) – Base de Datos y Arquitectura Base
 
-**Responsabilidades cumplidas**
-
 * Diseño y creación de la base de datos `StockManagerDB` en PostgreSQL con las tablas `Categorias` y `Productos`.
 * Implementación de integridad de datos directamente en el motor SQL con `FOREIGN KEY` (ON DELETE RESTRICT) y restricciones `CHECK` (precio > 0 y stock >= 0).
 * Estructuración del proyecto en capas lógicas creando las carpetas: `Modelos`, `Datos`, `Negocio` y `Database`.
@@ -42,10 +40,37 @@ Documentacion
 
 public static NpgsqlConnection ObtenerConexion()
 
+
+El sistema utiliza un modelo de base de datos relacional (PostgreSQL) estructurado en dos tablas principales conectadas mediante integridad referencial.
+
+Tabla categorias
+Almacena los grupos o clasificaciones del inventario.
+
+id: Tipo serial (Llave primaria autoincrementable).
+
+nombre: Tipo varchar(100) (Texto obligatorio y único).
+
+descripcion: Tipo text (Texto opcional sin límite estricto).
+
+Tabla productos
+Almacena los artículos físicos/digitales de la empresa y sus cantidades.
+
+id: Tipo serial (Llave primaria autoincrementable).
+
+nombre: Tipo varchar(150) (Texto obligatorio).
+
+precio: Tipo decimal(10, 2) (Obligatorio, con restricción CHECK para garantizar valores mayores a 0).
+
+stock: Tipo int (Obligatorio, con restricción CHECK para evitar inventarios negativos).
+
+categoriaid: Tipo int (Llave foránea que enlaza con el id de la categoría. Utiliza ON DELETE RESTRICT para impedir que se borre una categoría si tiene productos asociados).
+
 ##Aclaraciones
 
 *Obligatorio:** Cada integrante debe abrir el archivo `appsettings.json` y cambiar la parte de `Password=tu_contraseña` por su clave real de PostgreSQL local.
+
 * Verifiquen siempre que, en las propiedades de `appsettings.json`, la opción **Copiar en el directorio de salida** esté marcada como **Copiar si es posterior**; de lo contrario, la conexión fallará.
+
 * Para programar el CRUD, no necesitan reescribir la conexión. Solo llamen a `var conexion = ConexionBD.ObtenerConexion();` y recuerden ejecutar `conexion.Close();` al finalizar sus consultas.
 
 
