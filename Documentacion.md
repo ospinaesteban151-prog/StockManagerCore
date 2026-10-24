@@ -65,7 +65,7 @@ stock: Tipo int (Obligatorio, con restricción CHECK para evitar inventarios neg
 
 categoriaid: Tipo int (Llave foránea que enlaza con el id de la categoría. Utiliza ON DELETE RESTRICT para impedir que se borre una categoría si tiene productos asociados).
 
-##Aclaraciones
+## Aclaraciones
 
 *Obligatorio:** Cada integrante debe abrir el archivo `appsettings.json` y cambiar la parte de `Password=tu_contraseña` por su clave real de PostgreSQL local.
 
